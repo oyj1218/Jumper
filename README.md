@@ -14,5 +14,5 @@ It's mainly html, css, and there's a little Javascript.
 I made a shoe shopping mall and wanted to make it a unique design.
 <br> From the design to the code, I made it myself.
 
-> jumper.html(+css) : 메인페이지입니다. 나머지는 href에 넣어 클릭하면 나타나게 만들었습니다.
+> index.html : 메인페이지입니다. 나머지는 href에 넣어 클릭하면 나타나게 만들었습니다.
 > <br> Main page. I put the rest in href and made it appear when I click on it.
